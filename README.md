@@ -1,6 +1,8 @@
 # egograph
 My Facebook egograph with maximal and maximum clique analyses
 
+![graph](maximum_cliques.png)
+
 [Complementary presentation on cliques](https://docs.google.com/presentation/d/1VTfan6KJfcmNoz7mxHmQKX_tO1Im1w2Nf5rgLHJrey4/edit?usp=sharing)
 
 ## Generating your own egograph
